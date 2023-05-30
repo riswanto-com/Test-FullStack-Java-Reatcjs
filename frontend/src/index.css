@@ -1,0 +1,48 @@
+.file-image{
+  display: none;
+}
+.input-file-image{
+  border: 1px solid gainsboro;
+  border-radius: 3px;
+  width: 50px;
+  height: 50px;
+  margin-top: 20px;
+  text-align: center;
+  background-color: gainsboro;
+  padding-top: 5px;
+}
+.icon-file{
+  font-size: 35px;
+  color: rgb(97, 94, 94);
+}
+.title-file{
+  margin-left: 10px;
+  color: blue;
+}
+.btn-add{
+  background:none;
+  border: none;
+  color: blue;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn-add:hover{
+  background:none;
+  border: none;
+  color: blue;
+  font-weight: 600;
+}
+.rdw-editor-wrapper{
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  min-height: 250px;
+}
+.btn-skills{
+  margin: 5px;
+  min-width: 150px;
+  font-weight: 600;
+}
+.public-DraftStyleDefault-ltr{
+  padding-left: 30px;
+  padding-right: 30px;
+}
